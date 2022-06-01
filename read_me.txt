@@ -24,4 +24,12 @@ git checkout -b <name>
 # Switching between main and new branch
 git checkout <name> / git checkout main
 
+# creating a git pages
+#create new repo
+#call it:
+jenesanne.github.io
+
+# Make changes to files and commit them to github
+# go to settings and find pages and click on the link for repo
+# will bring you to the website updated as its seen
 
